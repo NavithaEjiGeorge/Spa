@@ -57,7 +57,7 @@ function draw() {
     S3.visible = false;
     }
 if(mousePressedOver(go)){
-  link = createA("https://navithaejigeorge.github.io/Trex/","click here")
+  link = createA("https://navithaejigeorge.github.io/cook/","click here")
   link.position(180,480)
 }
  drawSprites();
